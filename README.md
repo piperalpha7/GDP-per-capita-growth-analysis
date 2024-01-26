@@ -30,7 +30,7 @@ I went about my analysis by first transposing the dataset and my PowerBI report 
 
 ## Overview
 
-                ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/40b25ddf-dad6-43e5-aff9-2d4c6230222d)
+  ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/40b25ddf-dad6-43e5-aff9-2d4c6230222d)
 
 This Page Broadly described the number of countries falling in each category(Income Group, Region) and the average growth percentage in each category.
 
@@ -39,7 +39,7 @@ This Page Broadly described the number of countries falling in each category(Inc
 ## Income Group
 
 
-              ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/6105e7d3-28e1-447c-856f-83af39b74b74)
+![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/6105e7d3-28e1-447c-856f-83af39b74b74)
 
 I identified which were the countries that either contributed Positively or Negatively in the GDP per capita percentage change and  further researched the reasons as 
 listed below:
@@ -83,7 +83,7 @@ The reasons behind this could be Political Instability, Social Protests, Depende
 
 Just like above I aimed to identify the countries which either caused growth or fall in their repective region
 
-            ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/a01ba80c-01aa-4ff0-a8ea-d594f3f2c107)
+![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/a01ba80c-01aa-4ff0-a8ea-d594f3f2c107)
             
 
 ### North America
@@ -138,7 +138,7 @@ I deduced that China, Bosnia and Equatorial Guinea were the top countries in the
 analyse as to why they had grown so much.
 
           
-          ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/9e5941f7-0492-472c-a4d1-7d5e5bf9f2bd)
+![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/9e5941f7-0492-472c-a4d1-7d5e5bf9f2bd)
 
 
 ### Bosnia 
@@ -151,9 +151,10 @@ War from 1992 to 1995 . Seperation from Yugoslavia. Market correction of 81.36% 
 Oil economy. Dscovery of Oil reserves in 1996. Production peaked in 2004 and declined since.
 
 
-## China
+### China
 
 Diversified economy and Manufacturing Hub.
+
 
 
 ## Forecast
@@ -161,7 +162,7 @@ Diversified economy and Manufacturing Hub.
 I decided to then use the forecasting tool in PowerBI to see how the GDP per capitas would grow or fall in the next 10 years
 
 
-          ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/6f891f8a-bfaf-41f0-9ec3-53730f63adf7)
+  ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/6f891f8a-bfaf-41f0-9ec3-53730f63adf7)
 
 The forecasting tool predicted consistency for Equatorial Guinea and Bosnia, while it predicted fall for China .
 
