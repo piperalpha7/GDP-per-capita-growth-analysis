@@ -127,7 +127,7 @@ Islands relying on tourism and limited diversification
 
 Once these categories were analysed I further drilled down to see which countries were the TOP  positive contributors in GDP per capita Growth.
 
-          ![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/47f4a67c-2ff0-4957-bfab-08f5dd9ac0d1)
+![image](https://github.com/piperalpha7/GDP-per-capita-growth-analysis/assets/94968239/47f4a67c-2ff0-4957-bfab-08f5dd9ac0d1)
 
 
 
